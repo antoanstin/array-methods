@@ -1,0 +1,8 @@
+table,th,td{
+	border:2px double black;
+	border-collapse:collapse;
+	padding:20px;
+}
+body{background-color:pink;}
+h1{text-align:center;background-color:blue;}
+th{background-color:gray;}
